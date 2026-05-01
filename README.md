@@ -25,7 +25,7 @@ I use AI tools daily (Cursor, ChatGPT and more) to code faster, but I understand
 
 ---
 
-### 📦 Live Projects (6 deployed)
+### 📦 Live Projects (7 deployed)
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
@@ -35,6 +35,7 @@ I use AI tools daily (Cursor, ChatGPT and more) to code faster, but I understand
 | **TechAscend** | Fellowship portal with forms, blog, program roadmap | [🔗 View](https://www.tech-ascend.com) |
 | **Bloosom Tech** | Modern brand/business website | [🔗 View](https://bloosom-tech.vercel.app) |
 | **TechX Sentiment** | Python NLP sentiment analysis (TextBlob) | [🔗 GitHub](https://github.com/ekutyebu/techx-sentiment-project) |
+| **2BigDev Portfolio** | My portfolio website | [🔗 View](https://2bigdev.vercel.app/).|
 
 ---
 
