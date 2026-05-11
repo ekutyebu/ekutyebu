@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ekuty Barnabas Ebu (2BigDev)</h1>
+<h1 align="center">👋 Hi, I'm 2BigDev</h1>
 <h3 align="center">Junior Full Stack Developer | 6 Live Projects | 1+ Year Experience</h3>
 
 <p align="center">
